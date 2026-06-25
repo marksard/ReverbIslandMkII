@@ -1,6 +1,6 @@
 # ReverbIslandMkII
 
-8HP Eurorack modular Multi Effects processor on Spin Semi FV-1
+8HP Eurorack modular multi Effects processor on Spin Semi FV-1
 
 ![module_01](/_data/module_01.jpg)  
 
